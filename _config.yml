@@ -116,7 +116,7 @@ author:
   name             : "임지균"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : ":D"
-  location         : "영풍문고"
+  location         : # "영풍문고"
   email            : "imjg055@gmail.com"
   links:
     - label: "Email"
