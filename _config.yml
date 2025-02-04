@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "임지균"
-  avatar           : "/assets/images/sad hamster.jpg"
+  avatar           : "/assets/images/sad cat.jpg"
   bio              : ":D"
   location         : # "영풍문고"
   email            : "imjg055@gmail.com"
@@ -137,6 +137,8 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/Imjg055"
+      icon: "fab fa-fw fa-ko-fi"
+      url: "https://ko-fi.com/imjg055"
 
 # Site Footer
 footer:
